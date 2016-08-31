@@ -1,0 +1,15 @@
+
+NEEDOS KEYWORD1
+NEEDOS KEYWORD2
+task_init KEYWORD2
+task_run KEYWORD2
+task_constructor KEYWORD2
+task_increment KEYWORD2
+task_changeTime KEYWORD2
+task_reset KEYWORD2
+task_sleep KEYWORD2
+task_wakeup KEYWORD2
+taskIsRuuning KEYWORD2
+taskIsStopped KEYWORD2
+task_force KEYWORD2
+taskStatus KEYWORD2
